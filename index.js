@@ -10,6 +10,10 @@ let directory = [
     {
         "name": "Jobert",
         "email": "jobert@mail.com"
+    },
+    {
+        "name": "Matilda",
+        "email": "matilda@mail.com"
     }
 ]
 
