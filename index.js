@@ -4,15 +4,15 @@ const PORT = 3005;
 //mock database
 let directory = [
     {
-        "name": "Brandon",
+        "name": "Brandon_01_test",
         "email": "brandon@mail.com"
     },
     {
-        "name": "Jobert",
+        "name": "Jobert_02_test",
         "email": "jobert@mail.com"
     },
     {
-        "name": "Matilda",
+        "name": "Matilda_03_test",
         "email": "matilda@mail.com"
     }
 ]
