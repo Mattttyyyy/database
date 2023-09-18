@@ -8,7 +8,7 @@ let directory = [
         "email": "brandon@mail.com"
     },
     {
-        "name": "Jobert",
+        "name": "Jobert_02_test",
         "email": "jobert@mail.com"
     },
     {
